@@ -1,0 +1,9 @@
+Building Neexcash
+
+See doc/readme-qt.rst for instructions on building Neexcash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Neexcash.
+
+See doc/build-*.txt for instructions on building Neexcashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Neexcash.
